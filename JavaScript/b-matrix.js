@@ -15,8 +15,8 @@ const res = matrix
 
 console.log(res);
 
-for (const row of matrix) {
-  for (const item of row) {
-    console.log(item);
-  }
-}
+// for (const row of matrix) {
+//   for (const item of row) {
+//     console.log(item);
+//   }
+// }
